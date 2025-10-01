@@ -39,3 +39,12 @@ footer {
   color: white;
   font-size: 0.9rem;
 }
+/* トップ画像用スタイル */
+.top-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+header {
+    text-align: center;
+}
